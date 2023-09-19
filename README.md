@@ -80,13 +80,16 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 
 
 ### Optimal Policy:
-![image](https://github.com/Aashima02/policy-iteration-algorithm/assets/93427086/d4fffe05-c4bd-437d-8b00-dc49371e36a9)
+![image](https://github.com/Monisha-11/policy-iteration-algorithm/assets/93427240/f90e8d76-b470-4dfd-94ca-064f54e84bb7)
+
 
 ### Optimal Value Function:
-![image](https://github.com/Aashima02/policy-iteration-algorithm/assets/93427086/11224dc2-2f89-49ba-8376-b72a982c8b57)
+![image](https://github.com/Monisha-11/policy-iteration-algorithm/assets/93427240/2f07fcf0-de40-42a1-9f7a-675d948fb426)
+
 
 ### Success Rate for Optimal Policy:
-![image](https://github.com/Aashima02/policy-iteration-algorithm/assets/93427086/46be6ac0-cc73-45a1-a493-5fd9f2ce2e7e)
+![image](https://github.com/Monisha-11/policy-iteration-algorithm/assets/93427240/7d81bb30-785a-4da0-99d1-d20655de9ff0)
+
 
 ## RESULT:
 
